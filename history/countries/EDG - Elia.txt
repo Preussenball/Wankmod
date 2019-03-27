@@ -1,4 +1,4 @@
-capital = 63
+capital = 206
 
 #OOB = ""
 
@@ -20,11 +20,11 @@ set_politics = {
 		}
 		
 		communism = {
-			popularity = 80
+			popularity = 100
 		}
 		
 		neutrality = { 
-			popularity = 20
+			popularity = 0
 		}
 	}
 	
@@ -37,11 +37,11 @@ set_politics = {
 set_convoys = 5
 
 create_country_leader = {
-	name = "Martin von Rummel"
-	desc = "POLITICS_MARCIN_DESC"
-	picture = "Portrait_Martin.dds"
+	name = "Elia Meinhof"
+	desc = "POLITICS_ELIA_DESC"
+	picture = "Portrait_Elia.dds"
 	expire = "1965.1.1"
-	ideology = leninism
+	ideology = anarchist_communism
 	traits = {
 		#
 	}

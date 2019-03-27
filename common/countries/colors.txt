@@ -549,3 +549,11 @@ EDG = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
+INY = {
+	color = rgb { 234 162 0 }
+	color_ui = rgb { 234 162 0 }
+}
+LIN = {
+	color = rgb { 98 3 1 }
+	color_ui = rgb { 98 3 1 }
+}

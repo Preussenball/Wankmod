@@ -1,0 +1,27 @@
+
+state={
+	id=379
+	name="STATE_379"
+	resources={
+		steel=70.000
+		tungsten=32.000
+		aluminium=25.000
+	}
+
+	history={
+		owner = GRB 
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = GRB
+
+	}
+
+	provinces={
+		710 941 1414 1432 1601 1651 1862 4331 4347 4521 4607 4657 4736 4799 4816 4826 7667 7721 7756 7827 7879 10159 10305 10422 10591 10625 11698 11763 12134 12399 12425 12607 
+	}
+	manpower=91057
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

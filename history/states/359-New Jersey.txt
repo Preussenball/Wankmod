@@ -1,0 +1,27 @@
+
+state={
+	id=359
+	name="STATE_359"
+
+	history={
+		owner = GIR
+		victory_points = {
+			6882 5 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 7
+			air_base = 4
+
+		}
+		add_core_of = GIR
+
+	}
+
+	provinces={
+		706 859 905 3693 3863 3878 3894 6845 6882 6909 6911 9774 9801 9847 9850 9864 11740 11782 11900 
+	}
+	manpower=4041332
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}
